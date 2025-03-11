@@ -105,3 +105,6 @@ php src/gof/abstract-factory.php
 ```
 ## Certificate
 ![Scheme](./certificate.png)
+
+### whoami
+That git-repository created by Maxim Gavrilenko https://www.linkedin.com/in/maxim-gavrilenko
